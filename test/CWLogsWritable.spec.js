@@ -1,7 +1,6 @@
 'use strict';
 
 var objectAssign = require('object-assign');
-var inherits = require('util').inherits;
 var expect = require('./setup');
 var Writable = require('stream').Writable;
 var proxyquire = require('proxyquire');
