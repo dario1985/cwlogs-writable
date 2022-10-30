@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Writable stream for AWS CloudWatch Logs",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "author": "Andre Mekkawi <github@andremekkawi.com>",
   "license": "MIT",
   "bugs": {
